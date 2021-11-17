@@ -1,5 +1,5 @@
 {
-  "name": "user-list",
+  "name": "users-table",
   "version": "1.0.0",
   "description": "Just an example of usage React and Redux based on table of users",
   "main": "index.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SMhero/user-list.git"
+    "url": "git+https://github.com/SMhero/users-table.git"
   },
   "keywords": [
     "JavaScript",
@@ -24,9 +24,9 @@
   "author": "SMhero",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SMhero/user-list/issues"
+    "url": "https://github.com/SMhero/users-table/issues"
   },
-  "homepage": "https://github.com/SMhero/user-list#readme",
+  "homepage": "https://github.com/SMhero/users-table#readme",
   "dependencies": {
     "@babel/cli": "^7.13.14",
     "@babel/core": "^7.13.15",

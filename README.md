@@ -1,4 +1,4 @@
-# user-list
+# users-table
 
 Just an example of usage React and Redux based on table of users
 
