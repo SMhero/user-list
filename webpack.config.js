@@ -45,7 +45,7 @@ module.exports = {
   },
   output: {
     filename: '[name].js',
-    path: '/',
+    path: path.resolve(__dirname, 'dist'),
   },
   plugins: [
     new HtmlWebpackPlugin({
