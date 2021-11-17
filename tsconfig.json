@@ -24,10 +24,11 @@
     "target": "esnext",
     "paths": {
       "*": ["node_modules/@types", "./types/*"],
-      "actions/*": ["./actions/*"],
+      "api/*": ["./api/*"],
       "components/*": ["./components/*"],
       "reducers/*": ["./reducers/*"],
       "store/*": ["./store/*"],
+      "hooks/*": ["./hooks/*"],
       "typings/*": ["./typings/*"]
     }
   },
