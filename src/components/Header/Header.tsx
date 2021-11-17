@@ -10,7 +10,7 @@ interface Props {
 const Header: FC<Props> = ({ onCheckAll }) => (
   <Root>
     <Typography variant='h3'>
-      Users list
+      Users table
     </Typography>
     <FormControlLabel
       label="Select all"
