@@ -1,1 +1,0 @@
-{"version":3,"file":"useTypedDispatch.js","sourceRoot":"/","sources":["hooks/useTypedDispatch.ts"],"names":[],"mappings":"AAAA,OAAO,EAAwB,WAAW,EAAE,WAAW,EAAE,MAAM,aAAa,CAAC;AAI7E,MAAM,CAAC,MAAM,gBAAgB,GAAG,GAAG,EAAE,CAAC,WAAW,EAAe,CAAC;AACjE,MAAM,CAAC,MAAM,gBAAgB,GAAoC,WAAW,CAAC"}
