@@ -44,11 +44,11 @@ const App: FC = () => {
 
   useEffect(() => {
     dispatch(loadUsers());
-  }, [dispatch]);
+  }, []);
 
   useEffect(() => {
     dispatch(setSelected(selectedUsers));
-  }, [dispatch, selectedUsers]);
+  }, [selectedUsers]);
 
   return (
     <ThemeProvider theme={theme}>
